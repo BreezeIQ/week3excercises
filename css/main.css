@@ -1,0 +1,21 @@
+li:hover {
+	display: inline-block;
+	background-color: blue;
+	border: 2px solid #FFF;
+	transform: scale(1.2);
+}
+
+nav ul li {
+	display: inline-block;
+	text-align: center; 
+	padding: 20px;
+	transition: 0.5s ease;      
+}
+
+nav {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
